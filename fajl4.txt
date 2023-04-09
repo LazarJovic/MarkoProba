@@ -1,3 +1,5 @@
 Ovo je cetvrti fajl.
 Linija dodata.
 Nova linija.
+Konfliktna linija.
+
