@@ -1,1 +1,2 @@
-Ovo je treci fajl.sdfsd
+Ovo je treci fajl.
+Dodata nova linija koda.
